@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋. Nice to meet you :smile:. I am Bhim Prajapati
 
-<!--
-**bhim7204/bhim7204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻:mechanical_arm: Passionate about data, Business Intelligence and Robotics
+- 🎓 Bachelors in Electronics and Communication Engineering
+- 🎓 Post Graduate Student in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Python, Machine Learning.
+- 📫 Contact me at Gmail [prajapati.bhim.es@gmail.com]
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhimprajapati/)
+
+
+
